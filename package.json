@@ -2,7 +2,7 @@
   "name": "react-native-wheel-view",
   "version": "1.0.0",
   "description": "A react native component to render a giveaway like wheel",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +23,18 @@
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/NickNish09/react-native-wheel-view/issues"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "16.8.6",
+    "react-native": "^0.58.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.4",
+    "react-test-renderer": "16.3.1"
   },
   "homepage": "https://github.com/NickNish09/react-native-wheel-view#readme"
 }
